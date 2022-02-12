@@ -23,7 +23,7 @@ Please use 'npm run dev' in order to not exceed request limit of the API
 
 ### `npm run prod`
 
-Runs the app in the development () mode.\
+Runs the app against the real API () mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 makes actual request to the trafiklab API
