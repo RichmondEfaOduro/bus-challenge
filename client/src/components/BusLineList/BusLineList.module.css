@@ -1,0 +1,14 @@
+.container {
+  width: 70vw;
+  margin: 0 auto;
+  margin-bottom: 50px;
+}
+
+.table__header {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  height: 40px;
+  border-bottom: 1px solid #0a0a0a;
+  margin-bottom: 20px;
+  font-size: 1.45rem;
+}
